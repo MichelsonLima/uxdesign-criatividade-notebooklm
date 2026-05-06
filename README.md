@@ -1,10 +1,13 @@
 <h1>🎨 Guia de UX Design com NotebookLM</h1>
-
-O campo do design sempre me fez brilhar os olhos. Conteúdos sobre criatividade e ux design vieram a tona, e para aprofundar mais no conteúdo, busquei aplicar tais conteúdoi no NotebookLM como forma de facilitar o acesso a artigos, livros e blogs que muitas vezes estão em inglês ou outro idioma.
-O objetivo de utilizar o NLM é:
-Buscas personalizadas;
-Fontes confiáveis;
-Evitar alucinações em chats bot gerais;
+<a href="https://notebooklm.google.com/notebook/323edeec-933d-4419-ab08-42078abfa76d">Acesse o notebooklm aqui.</a>
+<br>
+<p>O campo do design sempre me fez brilhar os olhos. Conteúdos sobre criatividade e ux design vieram a tona, e para aprofundar mais no conteúdo, busquei aplicar tais conteúdoi no NotebookLM como forma de facilitar o acesso a artigos, livros e blogs que muitas vezes estão em inglês ou outro idioma.
+O objetivo de utilizar o NLM é:</p>
+<ul>
+  <li>Buscas personalizadas;</li>
+  <li>Fontes confiáveis;</li>
+  <li>Evitar alucinações em chats bot gerais;</li>
+</ul>
 
 <h3>Resumo Estruturado: O Ecossistema do UX Design</h2>
 O campo do <strong>UX Design (User Experience Design)</strong> consolidou-se como uma <strong>ciência aplicada</strong> que funde psicologia cognitiva, ergonomia e metodologias empíricas para criar sistemas intuitivos e satisfatórios. Diferente de uma disciplina puramente estética, o UX foca em definir o <strong>porquê</strong> (o problema), o <strong>quem</strong> (o público) e o <strong>como</strong> (o caminho) de uma solução.
