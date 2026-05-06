@@ -1,6 +1,6 @@
 <h1>🎨 Guia de UX Design com NotebookLM</h1>
-<a href="https://notebooklm.google.com/notebook/323edeec-933d-4419-ab08-42078abfa76d">Acesse o notebooklm aqui.</a>
-<br>
+<a href="https://notebooklm.google.com/notebook/323edeec-933d-4419-ab08-42078abfa76d">Acesse o NotebookLM aqui.</a>
+<p></p>
 <p>O campo do design sempre me fez brilhar os olhos. Conteúdos sobre criatividade e ux design vieram a tona, e para aprofundar mais no conteúdo, busquei aplicar tais conteúdoi no NotebookLM como forma de facilitar o acesso a artigos, livros e blogs que muitas vezes estão em inglês ou outro idioma.
 O objetivo de utilizar o NLM é:</p>
 <ul>
